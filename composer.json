@@ -1,0 +1,19 @@
+{
+    "name": "rvlyra/api-notifications",
+    "description": "Lib of notifications",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Rvlyra\\ApiNotifications\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Rubens Lyra",
+            "email": "rubensvlyra@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
